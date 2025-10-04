@@ -14,3 +14,5 @@ Project is due, with a link to your Hunter server inside `project2/`.
     2) A link to your code (on github)
     3) Documentation (see documentation notes)
 ### Examples & Inspiration
+Figma Documentation: www.figma.com/design/l7GqQfMmySfv0xCwOZX0tc/MEDP341?node-id=0-1&p=f&t=w03zG6H5WazTcsDK-0
+
